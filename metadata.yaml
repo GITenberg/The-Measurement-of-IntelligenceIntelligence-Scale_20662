@@ -1,0 +1,45 @@
+_repo: The-Measurement-of-IntelligenceIntelligence-Scale_20662
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Terman, Lewis M. (Lewis Madison)
+    alias: Terman, Lewis Madison
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '9446'
+    url: http://www.gutenberg.org/2009/agents/9446
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Terman
+  editor:
+    agent_name: Cubberley, Ellwood Patterson
+    alias: Cubberley, Ellwood P.
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '2501'
+    url: http://www.gutenberg.org/2009/agents/2501
+    wikipedia: http://en.wikipedia.org/wiki/Ellwood_Patterson_Cubberley
+description: ''
+gutenberg_issued: '2007-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20662'
+  lccn: '16014608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child development'
+- !lcc 'LB'
+- !lcsh 'Intelligence tests'
+- !lcsh 'Psychophysiology'
+title: 'The Measurement of Intelligence
+
+  An Explanation of and a Complete Guide for the Use of the
+
+  Stanford Revision and Extension of the Binet-Simon
+
+  Intelligence Scale'
+url: http://www.gutenberg.org/ebooks/20662

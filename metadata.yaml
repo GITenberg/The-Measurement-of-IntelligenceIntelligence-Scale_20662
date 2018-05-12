@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2501
     wikipedia: http://en.wikipedia.org/wiki/Ellwood_Patterson_Cubberley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20662#The-Measurement-of-IntelligenceIntelligence-Scale
 gutenberg_issued: '2007-02-25'
 gutenberg_type: Text
 identifiers:
